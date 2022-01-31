@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Chemoinformatics.
 - 🌱 I’m currently learning Deep learning and web development.
-- 👯 I’m looking to collaborate on Youtube, Scientific research and discovery of new molecules
+- 👯 I’m looking to collaborate on Scientific research and discovery of new molecules
 - 🤔 I’m looking for help with Django and Docker
 - 💬 Ask me anything about about Computational Chemistry, Chemoinformatics or Computer Aided Drug Discovery
 - 📫 How to reach me: [Facebook: Adnane Aouidate](https://www.facebook.com/profile.php?id=100008893412238)
