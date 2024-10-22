@@ -8,5 +8,6 @@
 - 📫 How to reach me on Facebook: [Facebook: Adnane Aouidate](https://www.facebook.com/profile.php?id=100008893412238)
 - :books: Check my scientific publications on google scholar: [Google Scholar: Adnane Aouidate](https://scholar.google.com/citations?user=Yngy4o4AAAAJ&hl=en)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I hold a Ph.D. in Chemistry 
+- ⚡ Fun fact: I hold a Ph.D. in Chemistry
+- 👨🏽‍💻 Don't hesitate to check my last publication in [Cheminformatics](https://www.sciencedirect.com/science/article/pii/S016773222400761X#b0145)
 
